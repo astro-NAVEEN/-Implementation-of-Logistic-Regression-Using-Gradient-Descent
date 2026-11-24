@@ -15,6 +15,8 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Program:
 
+~~~py
+
 import numpy as np
 
 # Sample Dataset
@@ -101,6 +103,8 @@ if prob >= 0.5:
 else:
 
     print("\nPrediction: Fail")
+
+~~~
 
 ## Output:
 
